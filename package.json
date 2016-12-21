@@ -1,0 +1,24 @@
+{
+  "name": "A00",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nigelr0/A00.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nigelr0/A00/issues"
+  },
+  "homepage": "https://github.com/nigelr0/A00#readme",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
