@@ -1,7 +1,7 @@
 {
   "name": "A00",
   "version": "1.0.0",
-  "description": "",
+  "description": "First Azure site",
   "main": "index.js",
   "scripts": {
     "start":"lite-server",
@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/nigelr0/A00#readme",
   "devDependencies": {
-    "lite-server": "^2.2.2"
+    "lite-server": "^2.2.2",
+    "gulp": "^3.9.1",
+    "del": "^2.2.2",
+    "gulp-sourcemaps": "^1.9.1"
   }
 }
